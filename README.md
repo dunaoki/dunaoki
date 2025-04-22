@@ -2,7 +2,7 @@
 - 👀 I’m interested in spend my quality time with surfing friends and family
 - 🌱 I’m currently learning programming and curious about technology
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me my email is edu.naoki@gmail.com or I have WhatsApp (48)991249313
+- 📫 How to reach me my email is edu.naoki@gmail.com or I have WhatsApp (48)99124-9313
 - 😄 Pronouns: Du, Dudu
 - ⚡ Fun fact: ...
 
