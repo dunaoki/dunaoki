@@ -2,7 +2,7 @@
 
 🌊 Gosto de aproveitar meu tempo livre com o surfe, amigos e família.  
 💻 Atualmente estou aprendendo programação e explorando o mundo da tecnologia e análise de dados.  
-📚 Sempre em busca de novos aprendizados — principalmente em Inteligência Artificial, análise de dados e desenvolvimento web.  
+📚 Sempre em busca de novos aprendizados — principalmente em Inteligência Artificial e análise de dados.  
 🤝 Aberto a colaborar em projetos iniciais, especialmente os que envolvem dados ou impacto positivo na comunidade.  
 📫 Como me encontrar:  
 &nbsp;&nbsp;&nbsp;&nbsp;📧 edu.naoki@gmail.com  
