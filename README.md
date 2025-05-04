@@ -31,6 +31,24 @@ Onde me encontrar:
   </a>
   
 </div>
+
+## Portfólio e Principais Projetos
+### Análise de Clientes AdventureWorks
+<img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/Captura%20de%20Tela%202025-05-03%20%C3%A0s%2023.18.55.png?raw=true">
+
+Impacto do cancelamento planos com serviços adicionais
+Vamos analisar o dashboard "Lojas Pets" com foco em análise de dados e potenciais insights:
+
+Contexto:Conforme os planos que a Petlove oferece, foram analisados os padrões de comportamento de 29 clientes para identificar os riscos de cancelamento e possíveis vendas de planos adicionais.
+
+Objetivo:O objetivo deste case é analisar os dados de clientes e fornecer insights para melhorar a retenção e aumentar a adesão a novos planos de saúde pet.
+<br>
+<br>
+<a href= "https://github.com/dunaoki/Projeto-Power-BI-Pets"> Clique arqui</a>
+para acessar o repositório no Github<br>
+<a href= "https://bolder-ice-30c.notion.site/Desenvolvendo-dashboard-em-Power-BI-1d54a17cfd55800cadd6c33a0fc104ed"> Clique arqui</a>
+para acessar o repositório no Notion<br>
+
 <!-- Você pode adicionar badges ou estatísticas do GitHub abaixo, se quiser -->
 
 <!--
