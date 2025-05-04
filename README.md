@@ -11,6 +11,12 @@
 ⚡ Curiosidade: Já tive um restaurante e hoje troquei o yakisoba pelo código 🍜👨‍💻
 <br><br>
 
+ ## O que eu faço?
+🔹 Construir Data Warehouses para estruturar dados de forma eficiente<br><br>
+🔹 Criar dashboards interativos para apoiar a tomada de decisões<br><br>
+🔹 Desenvolver pipelines de dados para automação e processamento eficiente<br><br>
+🔹 Usar SQL, Python para resolver problemas complexos<br><br>
+
 Principais ferramentas:
 <div>
   <img height="40" width="40" src="https://github.com/BruceFonseca2/Portfolio/blob/main/linguagens/python.png?raw=true">
@@ -29,10 +35,12 @@ Onde me encontrar:
     src="https://github.com/BruceFonseca2/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
   
-</div>
+</div><br><br>
+
+🧠 -  “Transformando dados em decisões.Onde há dados, há respostas.”
 
 ## Portfólio e Principais Projetos
-### Análise de Clientes AdventureWorks
+### Análise de empresa Pets
 <img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/Captura%20de%20Tela%202025-05-03%20%C3%A0s%2023.18.55.png?raw=true">
 
 Impacto do cancelamento planos com serviços adicionais
@@ -46,6 +54,20 @@ Objetivo:O objetivo deste case é analisar os dados de clientes e fornecer insig
 <a href= "https://github.com/dunaoki/Projeto-Power-BI-Pets"> Clique arqui</a>
 para acessar o repositório no Github<br>
 <a href= "https://bolder-ice-30c.notion.site/Desenvolvendo-dashboard-em-Power-BI-1d54a17cfd55800cadd6c33a0fc104ed"> Clique arqui</a>
+para acessar o repositório no Notion<br>
+
+### Analisando Pesquisa de Satisfação do Aikisoba
+<img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/Captura%20de%20Tela%202025-05-04%20%C3%A0s%2014.42.47.png?raw=true">
+
+Essa pesquisa foi criado para analisar os resultados de uma pesquisa de satisfação realizada com os clientes do Aikisoba. Ele oferece insights valiosos sobre o atendimento, preferências e comportamento dos consumidores, ajudando na tomada de decisões estratégicas para aprimorar os serviços e produtos oferecidos.
+
+
+Objetivo:Documentar o processo de coleta, tratamento e análise de dados da pesquisa de satisfação com os clientes do Aikisoba, com o intuito de obter insights estratégicos sobre o atendimento, canais de comunicação e comportamento do consumidor.
+<br>
+<br>
+<a href= "https://github.com/dunaoki/Pesquisa-Aikisoba"> Clique arqui</a>
+para acessar o repositório no Github<br>
+<a href= "https://www.notion.so/Pesquisa-de-Satisfa-o-Aikisoba-Documenta-o-1e94a17cfd5580539529d1bec34df47b?pvs=12"> Clique arqui</a>
 para acessar o repositório no Notion<br>
 
 <!-- Você pode adicionar badges ou estatísticas do GitHub abaixo, se quiser -->
