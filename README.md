@@ -24,7 +24,6 @@ Onde me encontrar:
     <img align="center" alt="* height="40" width="40"
     src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
   </a>
-  
   <a href="www.linkedin.com/in/eduardo-watanabe-b7b0b61a2">
     <img height="40" width="40" 
     src="https://github.com/BruceFonseca2/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
