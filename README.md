@@ -1,22 +1,22 @@
-### 👋 Olá, eu sou o Eduardo Naoki (Du, Dudu)
-
-🌊 Gosto de aproveitar meu tempo livre com o surfe, amigos e família.  
-💻 Atualmente estou aprendendo programação e explorando o mundo da tecnologia e análise de dados.  
-📚 Sempre em busca de novos aprendizados — principalmente em Inteligência Artificial e análise de dados.  
-🤝 Aberto a colaborar em projetos iniciais, especialmente os que envolvem dados ou impacto positivo na comunidade.  
+### 👋 Olá, sou Eduardo Naoki Watanabe.
+🌊 Apaixonado por tecnologia, análise de dados e, nas horas vagas, por surfe e bons momentos com amigos e família.<br>
+💻 Atualmente me desenvolvendo como profissional na área de programação e análise de dados, com foco em Inteligência Artificial e Data Analytics.<br>
+📚 Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e contribuir.<br>
+🤝 Aberto a colaborações em projetos, especialmente aqueles com impacto positivo ou foco em dados. <br>
 📫 Como me encontrar:  
 &nbsp;&nbsp;&nbsp;&nbsp;📧 edu.naoki@gmail.com  
 &nbsp;&nbsp;&nbsp;&nbsp;📱 <a href="https://wa.me/5548991249313" target="_blank">Fale comigo no WhatsApp</a>
+
 
 ⚡ Curiosidade: Já tive um restaurante e hoje troquei o yakisoba pelo código 🍜👨‍💻
 <br><br>
 
  ## O que eu faço?
-🔹 Construir Data Warehouses para estruturar dados de forma eficiente<br><br>
-🔹 Criar dashboards interativos para apoiar a tomada de decisões<br><br>
-🔹 Desenvolver pipelines de dados para automação e processamento eficiente<br><br>
-🔹 Usar SQL, Python para resolver problemas complexos<br><br>
-
+🔹 Construir Data Warehouses para estruturar dados de forma eficiente<br>
+🔹 Criar dashboards interativos para apoiar a tomada de decisões<br>
+🔹 Desenvolver pipelines de dados para automação e processamento eficiente<br>
+🔹 Usar SQL, Python para resolver problemas complexos<br>
+<br><br>
 Principais ferramentas:
 <div>
   <img height="40" width="40" src="https://github.com/BruceFonseca2/Portfolio/blob/main/linguagens/python.png?raw=true">
@@ -31,13 +31,13 @@ Onde me encontrar:
     src="https://github.com/BruceFonseca/Portfolio/blob/main/social%20icons/web-link.png?raw=true">
   </a>
   <a href="www.linkedin.com/in/eduardo-watanabe-b7b0b61a2">
-    <img height="40" width="40" 
+    <img align="center" alt="*  height="40" width="40" 
     src="https://github.com/BruceFonseca2/Portfolio/blob/main/social%20icons/linkedin.png?raw=true">
   </a>
   
 </div><br><br>
 
-🧠 -  “Transformando dados em decisões.Onde há dados, há respostas.”
+### 🧠  “Transformando dados em decisões.Onde há dados, há respostas.”
 
 ## Portfólio e Principais Projetos
 ### Análise de empresa Pets
