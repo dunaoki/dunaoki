@@ -56,6 +56,27 @@ para acessar o repositório no Github<br>
 <a href= "https://bolder-ice-30c.notion.site/Desenvolvendo-dashboard-em-Power-BI-1d54a17cfd55800cadd6c33a0fc104ed"> Clique arqui</a>
 para acessar o repositório no Notion<br>
 
+### Análise Financeira — Impacto dos Descontos nas Vendas e Lucros
+<img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/Captura%20de%20Tela%202025-05-11%20%C3%A0s%2018.18.26.png?raw=true">
+
+Dashboard interativo desenvolvido para analisar como as políticas de desconto impactam as vendas e lucros da empresa ao longo do tempo.
+Vamos analisar o dashboard com foco em análise de dados e potenciais insights:
+### **rincipais Insights**
+
+💡Meses com maior desconto não necessariamente refletem maior lucratividade, o que sugere a necessidade de reavaliar as estratégias de precificação.<br>
+💡 **Descontos altos ≠ lucro alto**<br>
+💡 **Segmentos como “Enterprise” responderam melhor aos descontos**<br>
+💡 **Há uma tendência de crescimento geral nas vendas**<br>
+💡O crescimento das vendas ao longo dos anos reforça a importância de um planejamento estratégico contínuo.
+
+Objetivo: Analisar o impacto dos descontos no volume de vendas e no lucro.
+<br>
+<br>
+<a href= "https://github.com/dunaoki/Analise-Financeira-Descontos-x-Lucros.git"> Clique arqui</a>
+para acessar o repositório no Github<br>
+<a href= "https://bolder-ice-30c.notion.site/Projeto-An-lise-Financeira-Impacto-dos-Descontos-nas-Vendas-e-Lucros-1e94a17cfd5580f393c1d5249c0e40a7?pvs=4"> Clique arqui</a>
+para acessar o repositório no Notion<br>
+
 ### Analisando Pesquisa de Satisfação do Aikisoba
 <img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/Captura%20de%20Tela%202025-05-04%20%C3%A0s%2014.42.47.png?raw=true">
 
