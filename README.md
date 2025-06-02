@@ -1,6 +1,6 @@
 ### 👋 Olá, sou Eduardo Naoki Watanabe.
 🌊 Apaixonado por tecnologia, análise de dados e, nas horas vagas, por surfe e bons momentos com amigos e família.<br>
-💻 Atualmente me desenvolvendo como profissional na área de programação e análise de dados, com foco em Inteligência Artificial e Data Analytics.<br>
+💻 Atualmente me desenvolvendo como profissional na área de programação e análise de dados, com foco em Inteligência Artificial e Analise de dados .<br>
 📚 Estou sempre em busca de novos aprendizados e desafios que me ajudem a crescer e contribuir.<br>
 🤝 Aberto a colaborações em projetos, especialmente aqueles com impacto positivo ou foco em dados. <br>
 📫 Como me encontrar:  
