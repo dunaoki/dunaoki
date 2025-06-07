@@ -40,6 +40,28 @@ Onde me encontrar:
 ### 🧠  “Transformando dados em decisões.Onde há dados, há respostas.”
 
 ## Portfólio e Principais Projetos
+### Análise estratégica no Crossfit 
+<img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/dash.jpg?raw=true">
+
+Este projeto foi desenvolvido com o objetivo de analisar o comportamento de alunos em uma academia de Crossfit, utilizando ferramentas de BI (Business Intelligence) para extrair insights relevantes sobre frequência, cancelamentos, planos contratados, perda de peso e o impacto financeiro geral.
+
+Insights Gerados:
+- Alunos com planos **mensais** representam a maior parte dos contratos ativos.
+- A perda de peso tende a ser maior entre alunos com **frequência mais alta**.
+- O número de **cancelamentos aumentou em 2025**, sugerindo a necessidade de estratégias de retenção.
+- Planos **anuais** demonstraram maior queda de adesão, o que pode indicar uma preferência por opções mais flexíveis.
+
+Considerações e Ações Sugeridas:
+- Investir em programas de fidelização para reter alunos com planos anuais.
+- Oferecer benefícios progressivos para alunos com maior frequência.
+- Criar planos personalizados baseados na evolução de peso e metas dos alunos.
+- Realizar entrevistas com alunos cancelados para entender motivos e reduzir churn.
+
+<a href= "https://github.com/dunaoki/Crossfit-analise.git"> Clique arqui</a>
+para acessar o repositório no Github<br>
+<a href= "https://bolder-ice-30c.notion.site/Projeto-An-lise-de-Alunos-de-Crossfit-20a4a17cfd55804496c7ef3e34bd8f48?source=copy_link"> Clique arqui</a>
+para acessar o repositório no Notion<br>
+
 ### Análise de empresa Pets
 <img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/Captura%20de%20Tela%202025-05-03%20%C3%A0s%2023.18.55.png?raw=true">
 
