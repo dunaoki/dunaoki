@@ -41,7 +41,7 @@ Onde me encontrar:
 
 ## Portfólio e Principais Projetos
 ### Análise estratégica no Crossfit 
-<img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/dash.jpg?raw=true">
+<img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/dash.cross.png?raw=true">
 
 Este projeto foi desenvolvido com o objetivo de analisar o comportamento de alunos em uma academia de Crossfit, utilizando ferramentas de BI (Business Intelligence) para extrair insights relevantes sobre frequência, cancelamentos, planos contratados, perda de peso e o impacto financeiro geral.
 
