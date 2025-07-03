@@ -40,6 +40,8 @@ Onde me encontrar:
 ### 🧠  “Transformando dados em decisões.Onde há dados, há respostas.”
 
 ## Portfólio e Principais Projetos
+# Há mais projetos no Repositório
+
 ### Análise estratégica no Crossfit 
 <img align="right" width="500" src="https://github.com/dunaoki/Imagens/blob/main/dash.cross.png?raw=true">
 
